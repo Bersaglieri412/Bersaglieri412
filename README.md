@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Bersaglieri412/Bersaglieri412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Statistics:
 <div id="stats">
